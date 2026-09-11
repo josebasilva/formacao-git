@@ -12,4 +12,4 @@ Com o tempo, o Git se tornou o padrão mundial no desenvolvimento de software, s
 Hoje, o Git é essencial para versionamento de código, controle de mudanças, trabalho em equipe e gestão de projetos de software, sendo uma ferramenta indispensável para profissionais de tecnologia.
 
 
-O git é fixe
+O git é fixeesta é uma nova frase 1234
