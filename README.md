@@ -13,3 +13,8 @@ Hoje, o Git é essencial para versionamento de código, controle de mudanças, t
 
 
 O git é fixeesta é uma nova frase 1234
+kjqbefhlbwf wffiuqbefui
+
+
+O fgit é mau
+
