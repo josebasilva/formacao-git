@@ -14,4 +14,4 @@ Hoje, o Git é essencial para versionamento de código, controle de mudanças, t
 
 O git é fixe esta é uma nova frase 1234
 
-Antes faltava um espaço na linha acima
+Antes faltava um espaço na linha acima agora não
